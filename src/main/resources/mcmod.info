@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "ideaplus",
+    "name": "Idea+",
+    "description": "Cool client for cool people(tm)",
+    "version": "Release b1.2.1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["S13S , InputMC, history"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
